@@ -1,0 +1,8 @@
+body { font-family: "Raleway", arial; margin: 0; padding: 0; }
+header { background-color: #DCDCDC; color: #fff; text-align: center; padding: 1rem; }
+.logo { background-image: url('//cdn.vmvt.lt/logo/logo_full_320.png'); height: 130px; width: 320px; display: inline-block; background-size: contain; background-repeat: no-repeat; }
+.title { display: flex; }
+.img404 { background-image: url('//cdn.vmvt.lt/img/128/notfound.png'); height: 92px; width: 92px; background-size: contain; }
+.txt404 { font-size: 93px; font-weight: 700; line-height: 79px; margin-left: 24px; color: #2A4871; }
+.note { color: #2A4871; font-weight: bold; font-size: 31px; margin-top: 25px; }
+.section { padding: 2rem; display: flex; flex-direction: column; justify-content: center; align-items: center; user-select: none; margin-top: 50px; }
